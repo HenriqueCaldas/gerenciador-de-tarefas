@@ -23,6 +23,10 @@ public class Tarefa {
         return descricao;
     }
 
+    public void concluir() {
+        this.concluida = true;
+    }
+
     public boolean isConcluida() {
         return concluida;
     }
