@@ -1,6 +1,7 @@
 package org.luis.repository;
 
 import org.luis.model.Tarefa;
+import org.springframework.stereotype.Repository;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -9,6 +10,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
+@Repository
 public class TarefaRepository {
 
     public void salvar(Tarefa tarefa) {
