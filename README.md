@@ -13,5 +13,9 @@ Este projeto é um ecossistema completo de desenvolvimento de software, simuland
 * Marcar tarefa como concluída.
 * Excluir uma tarefa.
 
+## Estou seguindo práticas ágeis para organização do projeto
+<img width="1366" height="683" alt="{487445EE-6DF4-4507-A986-66E9F243C2D2}" src="https://github.com/user-attachments/assets/e45d6a78-5c16-4504-a630-eb0aa85235f2" />
+
+
 ## 🚀 Como Executar o Projeto
 *(Instruções serão adicionadas conforme o projeto evoluir)*
